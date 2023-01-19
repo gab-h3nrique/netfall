@@ -1,0 +1,11 @@
+{
+  "name": "netfall",
+  "version": "1.0.0",
+  "description": "Promise http request for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gab-h3nrique",
+  "license": "ISC"
+}
