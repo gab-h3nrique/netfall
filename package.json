@@ -1,6 +1,6 @@
 {
   "name": "netfall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise http request for js",
   "main": "index.js",
   "scripts": {
