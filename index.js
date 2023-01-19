@@ -1,3 +1,3 @@
-import netfall from "./netfall";
+import netfall from "./core/netfall";
 
-export default netfall
+module.exports =  netfall;
